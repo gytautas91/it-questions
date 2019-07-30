@@ -5,7 +5,7 @@ Reasonable questions for IT recruitment
 2. How do you manage development processes ?
 2. What stack is being used in the project? If non, who will be making final decisions?
 3. Does project use micro services?
-4. Is based on CI\CD practices?
+4. Is project based on CI\CD practices?
 5. Is company using peer code review practices? What additional practices are being used to ensure code quality?
 6. Do company have dedicated testers?
 7. Do you write documentation? How fequently it's being updated?
